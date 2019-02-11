@@ -122,9 +122,3 @@ if(curState == "Brakes"){
 	
 }
 
-//Reset Sparks
-if(sparks == 8){
-
-	sparks = 0;
-	
-}
